@@ -7,16 +7,28 @@
 # Installing Requirments
 ## Just run this command in your terminal
 ```
-pip3 install -r req.txt
+pip3 install -r requirments.txt
 ```
 
 # How to use :
 
+## Step 0:
+
+    git clone https://github.com/lisus18ikrak/geo-tracker.git
+    
 ## Step 1:
+
+    cd geo-tracker
+
+## Step 2:
+  
+    pip3 install -r requirments.txt
+   
+## Step 3:
 
     python3 geolocation.py
 
-## Step 2:
+## Step 4:
   
     Enter your IP address
    
